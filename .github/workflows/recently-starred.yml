@@ -1,0 +1,32 @@
+name: Update recently starred in readme
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_starred:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT }}
+
+      - name: Update README
+        run: awk -f scripts/starred.awk README.md > tmp && mv -f tmp README.md
+
+      - name: Commit changes
+        run: |
+          GITHUB_REF=${{ github.ref }}
+
+          git config --local user.email "2834949+jryom@users.noreply.github.com"
+          git config --local user.name "jryom"
+
+          if [[ "$(git log -1 --pretty=%B)" = "update recently starred" ]]; then 
+            git commit --all --amend --no-edit
+            git push --force
+          else
+            git commit --all --message "update recently starred" && \
+            git push -u origin ${GITHUB_REF#ref/heads/} || exit 0
+          fi
