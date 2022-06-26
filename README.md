@@ -1,5 +1,3 @@
-<div>
-
 <h1>Hi there! 👋</h1>
 
 <p>I'm Jesper, developer living and working near Copenhagen.</p>
@@ -9,6 +7,7 @@
 <h2>Recently starred repos</h2>
 
 <!-- stars_begin -->
+
 - [trekkie1701c/BASH-E](https://github.com/trekkie1701c/BASH-E): <em>A command-line version of DALL-E playground, a tool to turn your text prompts into images</em>
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk): <em>A curated list of awesome AWK frameworks, libraries, software and resources</em>
 - [thewhitetulip/awk-anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook): <em>learn awk by example</em>
@@ -41,14 +40,7 @@
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow): <em>Pretty good call graphs for dynamic languages</em>
 <!-- stars_end -->
 
-<hr>
+<h2>Current favorite tracks</h2>
 
-<br>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21puft7cl656fdr6ffjp3r3ay&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21puft7cl656fdr6ffjp3r3ay&redirect=true)
-
-</div>
-
-</div>
+<!-- music_begin -->
+<!-- music_end -->

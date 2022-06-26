@@ -1,20 +1,32 @@
-name: Update recently starred in readme
+name: Refresh readme
+
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "*/30 0 * * *"
   workflow_dispatch:
 
 jobs:
-  update_starred:
+  refresh_readme:
     runs-on: ubuntu-latest
     steps:
+      - uses: mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 1
+
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
           token: ${{ secrets.PAT }}
 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
       - name: Update README
-        run: awk -f scripts/starred.awk README.md > tmp && mv -f tmp README.md
+        run: awk -f scripts/readme.awk README.md > tmp && mv -f tmp README.md
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
 
       - name: Commit changes
         run: |
@@ -23,10 +35,10 @@ jobs:
           git config --local user.email "2834949+jryom@users.noreply.github.com"
           git config --local user.name "jryom"
 
-          if [[ "$(git log -1 --pretty=%B)" = "update recently starred" ]]; then 
+          if [[ "$(git log -1 --pretty=%B)" = "refresh readme" ]]; then 
             git commit --all --amend --no-edit
             git push --force
           else
-            git commit --all --message "update recently starred" && \
+            git commit --all --message "refresh readme" && \
             git push -u origin ${GITHUB_REF#ref/heads/} || exit 0
           fi
