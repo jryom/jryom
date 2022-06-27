@@ -46,6 +46,8 @@
 
 <td>
 
+<br>
+
 <!-- tracks_begin -->
 1. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Vesuvio) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Vesuvio) [Nu Genea - Vesuvio](https://www.last.fm/music/Nu+Genea/_/Vesuvio)
 2. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Tienat%C3%A9) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Tienat%C3%A9) [Nu Genea - Tienaté](https://www.last.fm/music/Nu+Genea/_/Tienat%C3%A9)
@@ -62,6 +64,8 @@
 </td>
 
 <td>
+
+<br>
 
 <!-- artists_begin -->
 1. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea) [Nu Genea](https://www.last.fm/music/Nu+Genea)

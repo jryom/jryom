@@ -18,7 +18,10 @@ const tracks = async () => {
         `${idx + 1}. ` +
         `[<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/${searchQuery})` +
         ` [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=${searchQuery}) ` +
-        `[${item.artist.name} - ${item.name}](${item.url})`
+        `[${`${item.artist.name} - ${item.name}`.replace(
+          /(.{40})..+/,
+          "$1…"
+        )}](${item.url})`
       );
     })
     .join("\n");
