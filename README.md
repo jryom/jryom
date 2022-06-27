@@ -7,7 +7,6 @@
 <h2>Recently starred repos</h2>
 
 <!-- stars_begin -->
-
 - [trekkie1701c/BASH-E](https://github.com/trekkie1701c/BASH-E): <em>A command-line version of DALL-E playground, a tool to turn your text prompts into images</em>
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk): <em>A curated list of awesome AWK frameworks, libraries, software and resources</em>
 - [thewhitetulip/awk-anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook): <em>learn awk by example</em>
@@ -23,24 +22,19 @@
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf): <em>A Lua API for using fzf in neovim.</em>
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua): <em>Improved fzf.vim written in lua</em>
 - [emilk/egui](https://github.com/emilk/egui): <em>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</em>
-- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner): <em>A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.</em>
-- [quicktype/quicktype](https://github.com/quicktype/quicktype): <em>Generate types and converters from JSON, Schema, and GraphQL</em>
-- [ajv-validator/ajv](https://github.com/ajv-validator/ajv): <em>The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)</em>
-- [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli): <em>Pretty diff to html javascript cli (diff2html-cli)</em>
-- [majjoha/dotfiles](https://github.com/majjoha/dotfiles): <em>Configuration files for my development environment.</em>
-- [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim): <em>A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save</em>
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): <em>A beautiful CLI dashboard for GitHub 🚀 </em>
-- [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server): <em>Lua Language Server coded by Lua</em>
-- [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy): <em>Install and debug iPhone apps from the command line, without using Xcode</em>
-- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim): <em>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</em>
-- [ai/size-limit](https://github.com/ai/size-limit): <em>Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.</em>
-- [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts): <em>React hook library, ready to use, written in Typescript.</em>
-- [Homebrew/brew](https://github.com/Homebrew/brew): <em>🍺 The missing package manager for macOS (or Linux)</em>
-- [andreyvit/json-diff](https://github.com/andreyvit/json-diff): <em>Structural diff for JSON files</em>
-- [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow): <em>Pretty good call graphs for dynamic languages</em>
 <!-- stars_end -->
 
 <h2>Current favorite tracks</h2>
 
 <!-- music_begin -->
+1. [Nu Genea - Vesuvio](https://www.last.fm/music/Nu+Genea/_/Vesuvio) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Vesuvio) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Vesuvio)
+2. [Nu Genea - Tienaté](https://www.last.fm/music/Nu+Genea/_/Tienat%C3%A9) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Tienat%C3%A9) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Tienat%C3%A9)
+3. [Nu Genea - Straniero](https://www.last.fm/music/Nu+Genea/_/Straniero) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Straniero) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Straniero)
+4. [Nu Genea - Marechià](https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Marechi%C3%A0) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Marechi%C3%A0)
+5. [Gold Panda - I've Felt Better (Than I Do Now)](https://www.last.fm/music/Gold+Panda/_/I%27ve+Felt+Better+(Than+I+Do+Now)) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Gold%20Panda%20I've%20Felt%20Better%20(Than%20I%20Do%20Now)) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Gold%20Panda%20I've%20Felt%20Better%20(Than%20I%20Do%20Now))
+6. [Nu Genea - Bar Mediterraneo](https://www.last.fm/music/Nu+Genea/_/Bar+Mediterraneo) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Bar%20Mediterraneo) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Bar%20Mediterraneo)
+7. [Nu Genea - Gelbi](https://www.last.fm/music/Nu+Genea/_/Gelbi) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20Gelbi) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20Gelbi)
+8. [Overmono - So U Kno](https://www.last.fm/music/Overmono/_/So+U+Kno) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Overmono%20So%20U%20Kno) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Overmono%20So%20U%20Kno)
+9. [Burial - Nova](https://www.last.fm/music/Burial/_/Nova) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Burial%20Nova) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Burial%20Nova)
+10. [Nu Genea - La Crisi](https://www.last.fm/music/Nu+Genea/_/La+Crisi) [<img alt="spotify" width="16px" src="assets/spotify.png" />](https://open.spotify.com/search/Nu%20Genea%20La%20Crisi) [<img alt="youtube" width="16px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Nu%20Genea%20La%20Crisi)
 <!-- music_end -->
