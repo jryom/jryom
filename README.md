@@ -1,4 +1,4 @@
-<h1>Hi there! 👋</h1>
+<h1>Hi there! <img src="assets/hand-wave.svg" width="35" height="35"></h1>
 
 <p>I'm Jesper, developer living and working near Copenhagen.</p>
 

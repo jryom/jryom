@@ -1,0 +1,50 @@
+<!-- Credit: https://jarv.is/notes/css-waving-hand-emoji/ -->
+
+<svg width="35" height="35" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wave {
+          animation-duration: 2s;
+          animation-iteration-count: infinite;
+          animation-name: wave;
+          display: inline-block;
+          font-size: 2em;
+          left: 0%;
+          line-height: 0;
+          position: absolute;
+          top: 50%;
+          transform-origin: 22px 7px;
+        }
+
+        @keyframes wave {
+          0% {
+            transform: rotate(0deg);
+          }
+          10% {
+            transform: rotate(14deg);
+          }
+          20% {
+            transform: rotate(-8deg);
+          }
+          30% {
+            transform: rotate(14deg);
+          }
+          40% {
+            transform: rotate(-4deg);
+          }
+          50% {
+            transform: rotate(10deg);
+          }
+          60% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(0deg);
+          }
+        }
+      </style>
+      <span class="wave">👋</span>
+    </div>
+  </foreignObject>
+</svg>
