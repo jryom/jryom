@@ -1,8 +1,8 @@
 <h1>Hi there! <img src="assets/hand-wave.svg" width="35" height="35"></h1>
 
-<p>I'm Jesper, developer living and working near Copenhagen.</p>
+<p>I'm Jesper and I work as a developer in Copenhagen.</p>
 
-<p>Currently building mobile apps at LEGO.</p>
+<p>Currently working on IoT edge computing at LEGO.</p>
 
 <h2>Recently starred repos</h2>
 
