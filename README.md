@@ -7,21 +7,21 @@
 <h2>Recently starred repos</h2>
 
 <!-- stars_begin -->
-- [aws-azure-login/aws-azure-login](https://github.com/aws-azure-login/aws-azure-login): <em>Use Azure AD SSO to log into the AWS via CLI.</em>
-- [danvergara/dblab](https://github.com/danvergara/dblab): <em>The database client every command line junkie deserves.</em>
-- [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish): <em>Fish shell tool for managing Python virtual environments</em>
-- [astral-sh/ruff](https://github.com/astral-sh/ruff): <em>An extremely fast Python linter and code formatter, written in Rust.</em>
-- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit): <em>A framework for managing and maintaining multi-language pre-commit hooks.</em>
-- [jdx/rtx](https://github.com/jdx/rtx): <em>Runtime Executor (asdf-plugin compatible)</em>
-- [Makeshift/generate-dependabot-glob-action](https://github.com/Makeshift/generate-dependabot-glob-action): <em>Generates a `dependabot.yml` and PRs it against your repo if it needs updating to include a new directory or package-ecosystem, with globs/wildcards</em>
-- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim): <em>A fast Neovim http client written in Lua</em>
-- [wallpants/github-preview.nvim](https://github.com/wallpants/github-preview.nvim): <em>Live Preview of your Markdown (GFM) files & local git repositories for Neovim.</em>
-- [jeffijoe/awilix](https://github.com/jeffijoe/awilix): <em>Extremely powerful Inversion of Control (IoC) container for Node.JS</em>
-- [aristocratos/btop](https://github.com/aristocratos/btop): <em>A monitor of resources</em>
-- [xiamaz/YabaiIndicator](https://github.com/xiamaz/YabaiIndicator): <em>MacOS Menubar Applet for showing spaces and switching spaces easily</em>
-- [jonaslu/ain](https://github.com/jonaslu/ain): <em>A HTTP API client for the terminal</em>
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish): <em>Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in</em>
-- [webpro/knip](https://github.com/webpro/knip): <em>✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!</em>
+- [komed3/cmpstr](https://github.com/komed3/cmpstr): <em>CmpStr is a lightweight, fast and well performing package for calculating string similarity</em>
+- [dragondrop-cloud/cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge): <em> "Terraform best practices as a Pull Request." Codify resources outside of Terraform control, detect drift, estimate cloud costs, identify security risks, and more.</em>
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox): <em>Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop</em>
+- [henrygd/beszel](https://github.com/henrygd/beszel): <em>Lightweight server monitoring hub with historical data, docker stats, and alerts.</em>
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin): <em>OliveTin gives safe and simple access to predefined shell commands from a web interface. </em>
+- [sergree/matchering](https://github.com/sergree/matchering): <em>🎚️ Open Source Audio Matching and Mastering</em>
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): <em>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</em>
+- [burhan-syed/troddit](https://github.com/burhan-syed/troddit): <em>A web client for Reddit with authenticated logins and a variety of browsing options</em>
+- [ScribeMD/docker-cache](https://github.com/ScribeMD/docker-cache): <em>Cache Docker Images Whether Built or Pulled</em>
+- [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim): <em>Display references, definitions and implementations of document symbols</em>
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc): <em>Boot and upgrade via container images</em>
+- [ChilloManiac/ostree](https://github.com/ChilloManiac/ostree): <em>Operating system and container binary deployment and upgrades</em>
+- [gazpachoking/trainaspower](https://github.com/gazpachoking/trainaspower): <em>Convert TrainAsOne training plans from pace to power, and upload them to FinalSurge for use in Stryd workouts.</em>
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman): <em>Write Markdown with code assist and intelligence in the comfort of your favourite editor.</em>
+- [step-security/harden-runner](https://github.com/step-security/harden-runner): <em>Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.</em>
 <!-- stars_end -->
 
 <hr>
@@ -49,16 +49,16 @@
 <br>
 
 <!-- tracks_begin -->
-1. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Hermanos%20Guti%C3%A9rrez%20Cerca%20De%20Ti) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Hermanos%20Guti%C3%A9rrez%20Cerca%20De%20Ti) [Hermanos Gutiérrez - Cerca De Ti](https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Cerca+De+Ti)
-2. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Hermanos%20Guti%C3%A9rrez%20Mesa%20Redonda) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Hermanos%20Guti%C3%A9rrez%20Mesa%20Redonda) [Hermanos Gutiérrez - Mesa Redonda](https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Mesa+Redonda)
-3. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/KNOWER%20Real%20Nice%20Moment) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=KNOWER%20Real%20Nice%20Moment) [KNOWER - Real Nice Moment](https://www.last.fm/music/KNOWER/_/Real+Nice+Moment)
-4. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Hermanos%20Guti%C3%A9rrez%20Tres%20Hermanos) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Hermanos%20Guti%C3%A9rrez%20Tres%20Hermanos) [Hermanos Gutiérrez - Tres Hermanos](https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/_/Tres+Hermanos)
-5. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Pale%20Jay%20For%20James) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Pale%20Jay%20For%20James) [Pale Jay - For James](https://www.last.fm/music/Pale+Jay/_/For+James)
-6. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Broadcast%20Look%20Outside) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Broadcast%20Look%20Outside) [Broadcast - Look Outside](https://www.last.fm/music/Broadcast/_/Look+Outside)
-7. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Broadcast%20Until%20Then) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Broadcast%20Until%20Then) [Broadcast - Until Then](https://www.last.fm/music/Broadcast/_/Until+Then)
-8. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Kokoroko%20Home) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Kokoroko%20Home) [Kokoroko - Home](https://www.last.fm/music/Kokoroko/_/Home)
-9. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Pale%20Jay%20In%20Your%20Corner) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Pale%20Jay%20In%20Your%20Corner) [Pale Jay - In Your Corner](https://www.last.fm/music/Pale+Jay/_/In+Your+Corner)
-10. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/%C2%BFT%C3%A9o%3F%20Magic%20Hour) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=%C2%BFT%C3%A9o%3F%20Magic%20Hour) [¿Téo? - Magic Hour](https://www.last.fm/music/%C2%BFT%C3%A9o%3F/_/Magic+Hour)
+1. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Jamie%20xx%20Dream%20Night) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Jamie%20xx%20Dream%20Night) [Jamie xx - Dream Night](https://www.last.fm/music/Jamie+xx/_/Dream+Night)
+2. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Os%20Tinco%C3%A3s%20deixa%20a%20gira%20gira) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Os%20Tinco%C3%A3s%20deixa%20a%20gira%20gira) [Os Tincoãs - deixa a gira gira](https://www.last.fm/music/Os+Tinco%C3%A3s/_/deixa+a+gira+gira)
+3. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/For%20Those%20I%20Love%20I%20Have%20a%20Love%20(Overmono%20Remix)) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=For%20Those%20I%20Love%20I%20Have%20a%20Love%20(Overmono%20Remix)) [For Those I Love - I Have a Love (Overmo…](https://www.last.fm/music/For+Those+I+Love/_/I+Have+a+Love+(Overmono+Remix))
+4. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Jo%C3%A3o%20Donato%20E%20Menina) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Jo%C3%A3o%20Donato%20E%20Menina) [João Donato - E Menina](https://www.last.fm/music/Jo%C3%A3o+Donato/_/E+Menina)
+5. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Joy%20Orbison%20Lippy) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Joy%20Orbison%20Lippy) [Joy Orbison - Lippy](https://www.last.fm/music/Joy+Orbison/_/Lippy)
+6. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Gold%20Panda%20Plain%20Sailing) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Gold%20Panda%20Plain%20Sailing) [Gold Panda - Plain Sailing](https://www.last.fm/music/Gold+Panda/_/Plain+Sailing)
+7. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Jamie%20xx%20Seesaw%20(feat.%20Romy)) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Jamie%20xx%20Seesaw%20(feat.%20Romy)) [Jamie xx - Seesaw (feat. Romy)](https://www.last.fm/music/Jamie+xx/_/Seesaw+(feat.+Romy))
+8. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Baden%20Powell%20Tempo%20De%20Amor) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Baden%20Powell%20Tempo%20De%20Amor) [Baden Powell - Tempo De Amor](https://www.last.fm/music/Baden+Powell/_/Tempo+De+Amor)
+9. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Elizeth%20Cardoso%20Vida%20Bela) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Elizeth%20Cardoso%20Vida%20Bela) [Elizeth Cardoso - Vida Bela](https://www.last.fm/music/Elizeth+Cardoso/_/Vida+Bela)
+10. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Baden%20Powell%20Candombl%C3%A9) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Baden%20Powell%20Candombl%C3%A9) [Baden Powell - Candomblé](https://www.last.fm/music/Baden+Powell/_/Candombl%C3%A9)
 <!-- tracks_end -->
 
 </td>
@@ -68,16 +68,16 @@
 <br>
 
 <!-- artists_begin -->
-1. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Pale%20Jay) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Pale%20Jay) [Pale Jay](https://www.last.fm/music/Pale+Jay)
-2. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/The%20Go!%20Team) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=The%20Go!%20Team) [The Go! Team](https://www.last.fm/music/The+Go!+Team)
-3. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Hermanos%20Guti%C3%A9rrez) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Hermanos%20Guti%C3%A9rrez) [Hermanos Gutiérrez](https://www.last.fm/music/Hermanos+Guti%C3%A9rrez)
-4. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Broadcast) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Broadcast) [Broadcast](https://www.last.fm/music/Broadcast)
-5. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Freddie%20Gibbs) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Freddie%20Gibbs) [Freddie Gibbs](https://www.last.fm/music/Freddie+Gibbs)
-6. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Kenny%20Beats) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Kenny%20Beats) [Kenny Beats](https://www.last.fm/music/Kenny+Beats)
-7. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Larry%20June) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Larry%20June) [Larry June](https://www.last.fm/music/Larry+June)
-8. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Adi%20Oasis) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Adi%20Oasis) [Adi Oasis](https://www.last.fm/music/Adi+Oasis)
-9. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Madison%20McFerrin) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Madison%20McFerrin) [Madison McFerrin](https://www.last.fm/music/Madison+McFerrin)
-10. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Kokoroko) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Kokoroko) [Kokoroko](https://www.last.fm/music/Kokoroko)
+1. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Dirty%20Art%20Club) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Dirty%20Art%20Club) [Dirty Art Club](https://www.last.fm/music/Dirty+Art+Club)
+2. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Felbm) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Felbm) [Felbm](https://www.last.fm/music/Felbm)
+3. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Cesco) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Cesco) [Cesco](https://www.last.fm/music/Cesco)
+4. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Overmono) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Overmono) [Overmono](https://www.last.fm/music/Overmono)
+5. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Larry%20June) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Larry%20June) [Larry June](https://www.last.fm/music/Larry+June)
+6. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Joy%20Orbison) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Joy%20Orbison) [Joy Orbison](https://www.last.fm/music/Joy+Orbison)
+7. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Men%20I%20Trust) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Men%20I%20Trust) [Men I Trust](https://www.last.fm/music/Men+I+Trust)
+8. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Domenique%20Dumont) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Domenique%20Dumont) [Domenique Dumont](https://www.last.fm/music/Domenique+Dumont)
+9. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Bakey) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Bakey) [Bakey](https://www.last.fm/music/Bakey)
+10. [<img alt="spotify" width="18px" src="assets/spotify.png" />](https://open.spotify.com/search/Jamie%20xx) [<img alt="youtube" width="18px" src="assets/youtube.png" />](https://www.youtube.com/results?search_query=Jamie%20xx) [Jamie xx](https://www.last.fm/music/Jamie+xx)
 <!-- artists_end -->
 
 </td>
